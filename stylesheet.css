@@ -15,7 +15,9 @@ body {
 header {
   width: 100%;
   height: auto;
-  background-color: #7fbfff;
+  background: -moz-linear-gradient(left, #F13F79 5%, #FFC778);
+  background: -webkit-linear-gradient(left, #F13F79 5%, #FFC778);
+  background: linear-gradient(to right, #F13F79 5%, #FFC778);
   position: fixed;
   top: 0;
   left: 0;
