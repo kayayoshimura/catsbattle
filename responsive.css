@@ -1,0 +1,38 @@
+@media (max-width: 1000px) {
+
+}
+@media (max-width: 670px) {
+  .main {
+    width: 100%;
+    margin-top: 41px;
+  }
+  header p {
+    font-size: 14px;
+    text-align: left;
+  }
+  .textBr {
+    width: 100%;
+    padding: 0;
+    display: block;
+  }
+  .topWrapper h1 {
+    font-size: 24px
+  }
+  .messageWrapper p {
+    font-size: 12px;
+  }
+  .lists {
+    font-size: 12px;
+  }
+  .messageWrapper h2 {
+    margin-top: 80px;
+    font-size: 18px;
+  }
+  .sideBr {
+    width: 100%;
+    padding-top: 100px;
+    margin: 0;
+    display: block;
+    float: none;
+  }
+}
